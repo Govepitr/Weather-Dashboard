@@ -15,10 +15,10 @@
 
 ### GitHub Repo
 
-> 
+> https://github.com/Govepitr/Weather-Dashboard.git
 
 ### GitHub Live Site
 
->
+> https://govepitr.github.io/Weather-Dashboard/
 
-![Portfolio Screenshot](<'insert github path for photo'>?raw=true "Portfolio Screenshot")
+![Weather Dashboard Screenshot](https://github.com/Govepitr/Weather-Dashboard/blob/main/assets/images/screenshot.png?raw=true "Weather Dashboard Screenshot")
