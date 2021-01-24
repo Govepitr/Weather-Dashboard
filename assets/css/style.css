@@ -4,6 +4,9 @@ h1 {
   font-size: 4rem;
   font-weight: 600;
   background: transparent;
+  background: -webkit-radial-gradient(rgb(32, 189, 255), rgb(29, 46, 199));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 p, a{
@@ -28,7 +31,8 @@ h3, h4, h5 {
 }
 
 .card-body{
-  
+  background: rgb(109,213,250);
+  background: linear-gradient(286deg, rgba(109,213,250,1) 31%, rgba(32,189,255,1) 59%, rgba(84,51,255,1) 90%);
 }
 
 body{
