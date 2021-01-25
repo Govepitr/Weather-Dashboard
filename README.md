@@ -15,7 +15,7 @@
 
 ### GitHub Repo
 
-> https://github.com/Govepitr/Weather-Dashboard.git
+> https://github.com/Govepitr/Weather-Dashboard
 
 ### GitHub Live Site
 
